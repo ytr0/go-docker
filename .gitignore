@@ -1,0 +1,17 @@
+
+# macOS
+.DS_Store
+
+# Go
+tmp/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# IDE
+.vscode
+
+# Cache
+__pycache__
